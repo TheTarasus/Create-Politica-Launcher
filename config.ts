@@ -11,8 +11,8 @@ export const window = {
 };
 
 export const api = {
-    ws: 'ws://127.0.0.1:1370/ws',
-    web: 'http://127.0.0.1:1370',
+    ws: 'wss://api.create-politica.su',
+    web: 'https://api.create-politica.su',
     // extraToken: token,
 };
 
