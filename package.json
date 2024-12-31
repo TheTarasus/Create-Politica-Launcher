@@ -1,7 +1,7 @@
 {
-    "name": "aurora-launcher-app",
+    "name": "Create-Politica-Launcher",
     "version": "0.0.5-dev.2",
-    "description": "Launcher for Minecraft",
+    "description": "Играть на CREATE-POLITICA.SU",
     "main": "out/main/index-obf.loader.js",
     "private": true,
     "scripts": {
