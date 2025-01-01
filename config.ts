@@ -11,7 +11,7 @@ export const window = {
 };
 
 export const api = {
-    ws: 'wss://api.create-politica.su',
+    ws: 'wss://api.create-politica.su/ws',
     web: 'https://api.create-politica.su',
     publicKey,
 };
